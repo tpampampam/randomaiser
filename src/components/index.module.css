@@ -1,0 +1,35 @@
+
+
+.logo  {
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+.team:hover {
+    cursor: pointer;
+    transition: 0.7s;
+    transform: scale(1.5);
+}
+
+
+.linkStyle {
+    text-decoration: none;
+}
+
+.teamLogo  {
+    max-width: 100%;
+    max-height: 100%;
+    animation: appear 1000ms linear;
+    
+}
+
+@keyframes appear {
+    from {
+            opacity: 0; 
+
+        }
+    to {
+            opacity: 1; 
+
+        }
+}

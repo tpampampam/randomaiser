@@ -1,0 +1,403 @@
+{
+    "APL": [
+        {
+            "id": 1,
+            "team": "Arsenal",
+            "logo": "imgs/APL/arsenal.svg"
+        },
+        {
+            "id": 2,
+            "team": "Chelsea",
+            "logo": "imgs/APL/chelsea.svg"
+        },
+        {
+            "id": 3,
+            "team": "Liverpool",
+            "logo": "imgs/APL/liverpool.svg"
+        },
+        {
+            "id": 4,
+            "team": "MC",
+            "logo": "imgs/APL/MC.png"
+        },
+        {
+            "id": 5,
+            "team": "Aston Villa",
+            "logo": "imgs/APL/AstonVilla.png"
+        },
+        {
+            "id": 6,
+            "team": "Tottenham",
+            "logo": "imgs/APL/Tottenham.png"
+        },
+        {
+            "id": 7,
+            "team": "MU",
+            "logo": "imgs/APL/MU.png"
+        },
+        {
+            "id": 8,
+            "team": "West Ham",
+            "logo": "imgs/APL/WestHam.png"
+        },
+        {
+            "id": 9,
+            "team": "Brighton",
+            "logo": "imgs/APL/Brighton.png"
+        },
+        {
+            "id": 10,
+            "team": "Newcastle",
+            "logo": "imgs/APL/Newcastle.png"
+        },
+        {
+            "id": 11,
+            "team": "Wolves",
+            "logo": "imgs/APL/Wolves.png"
+        },
+        {
+            "id": 12,
+            "team": "Bournemouth",
+            "logo": "imgs/APL/Bournemouth.png"
+        },
+        {
+            "id": 13,
+            "team": "Fulham",
+            "logo": "imgs/APL/Fulham.png"
+        },
+        {
+            "id": 14,
+            "team": "CrystalPalace",
+            "logo": "imgs/APL/CrystalPalace.png"
+        },
+        {
+            "id": 15,
+            "team": "Brentford",
+            "logo": "imgs/APL/Brentford.png"
+        },
+        {
+            "id": 16,
+            "team": "Nottingham",
+            "logo": "imgs/APL/Nottingham.png"
+        },
+        {
+            "id": 17,
+            "team": "Luton",
+            "logo": "imgs/APL/Luton.png"
+        },
+        {
+            "id": 18,
+            "team": "Everton",
+            "logo": "imgs/APL/Everton.png"
+        },
+        {
+            "id": 19,
+            "team": "Burnley",
+            "logo": "imgs/APL/Burnley.png"
+        },
+        {
+            "id": 20,
+            "team": "SheffieldUtd",
+            "logo": "imgs/APL/SheffieldUtd.png"
+        }
+
+    ],
+    "laliga": [
+        {
+            "id": 21,
+            "team": "RealMadrid",
+            "logo": "imgs/laLiga/RM.png"
+        },
+        {
+            "id": 22,
+            "team": "Girona",
+            "logo": "imgs/laLiga/Girona.png"
+        },
+        {
+            "id": 23,
+            "team": "Barcelona",
+            "logo": "imgs/laLiga/Barcelona.png"
+        },
+        {
+            "id": 24,
+            "team": "AM",
+            "logo": "imgs/laLiga/AM.png"
+        },
+        {
+            "id": 25,
+            "team": "AB",
+            "logo": "imgs/laLiga/AB.png"
+        },
+        {
+            "id": 26,
+            "team": "RS",
+            "logo": "imgs/laLiga/RS.png"
+        },
+        {
+            "id": 27,
+            "team": "Valencia",
+            "logo": "imgs/laLiga/Valencia.png"
+        },
+        {
+            "id": 28,
+            "team": "Betis",
+            "logo": "imgs/laLiga/Betis.png"
+        },
+        {
+            "id": 29,
+            "team": "LasPalmas",
+            "logo": "imgs/laLiga/LasPalmas.png"
+        },
+        {
+            "id": 30,
+            "team": "Getafe",
+            "logo": "imgs/laLiga/Getafe.png"
+        },
+        {
+            "id": 31,
+            "team": "Osasuna",
+            "logo": "imgs/laLiga/Osasuna.png"
+        },
+        {
+            "id": 32,
+            "team": "Alaves",
+            "logo": "imgs/laLiga/Alaves.png"
+        },
+        {
+            "id": 33,
+            "team": "RayoVallecano",
+            "logo": "imgs/laLiga/RayoVallecano.png"
+        },
+        {
+            "id": 34,
+            "team": "Villarreal",
+            "logo": "imgs/laLiga/Villarreal.png"
+        },
+        {
+            "id": 35,
+            "team": "Sevilla",
+            "logo": "imgs/laLiga/Sevilla.png"
+        },
+        {
+            "id": 36,
+            "team": "Celta",
+            "logo": "imgs/laLiga/Celta.png"
+        },
+        {
+            "id": 37,
+            "team": "Mallorca",
+            "logo": "imgs/laLiga/Mallorca.png"
+        },
+        {
+            "id": 38,
+            "team": "Cadiz",
+            "logo": "imgs/laLiga/Cadiz.png"
+        },
+        {
+            "id": 39,
+            "team": "Granada",
+            "logo": "imgs/laLiga/Granada.png"
+        },
+        {
+            "id": 40,
+            "team": "Almeria",
+            "logo": "imgs/laLiga/Almeria.png"
+        }
+
+    ],
+    "seriaA": [
+        {
+            "id": 41,
+            "team": "Inter",
+            "logo": "imgs/seriaA/Inter.png"
+        },
+        {
+            "id": 42,
+            "team": "Juventus",
+            "logo": "imgs/seriaA/Juventus.png"
+        },
+        {
+            "id": 43,
+            "team": "Milan",
+            "logo": "imgs/seriaA/Milan.png"
+        },
+        {
+            "id": 44,
+            "team": "Atalanta",
+            "logo": "imgs/seriaA/Atalanta.png"
+        },
+        {
+            "id": 45,
+            "team": "Roma",
+            "logo": "imgs/seriaA/Roma.png"
+        },
+        {
+            "id": 46,
+            "team": "Bologna",
+            "logo": "imgs/seriaA/Bologna.png"
+        },
+        {
+            "id": 47,
+            "team": "Napoli",
+            "logo": "imgs/seriaA/Napoli.png"
+        },
+        {
+            "id": 48,
+            "team": "Fiorentina",
+            "logo": "imgs/seriaA/Fiorentina.png"
+        },
+        {
+            "id": 49,
+            "team": "Lazio",
+            "logo": "imgs/seriaA/Lazio.png"
+        },
+        {
+            "id": 50,
+            "team": "Torino",
+            "logo": "imgs/seriaA/Torino.png"
+        },
+        {
+            "id": 51,
+            "team": "Genoa",
+            "logo": "imgs/seriaA/Genoa.png"
+        },
+        {
+            "id": 52,
+            "team": "Monza",
+            "logo": "imgs/seriaA/Monza.png"
+        },
+        {
+            "id": 53,
+            "team": "Lecce",
+            "logo": "imgs/seriaA/Lecce.png"
+        },
+        {
+            "id": 54,
+            "team": "Frosinone",
+            "logo": "imgs/seriaA/Frosinone.png"
+        },
+        {
+            "id": 55,
+            "team": "Cagliari",
+            "logo": "imgs/seriaA/Cagliari.png"
+        },
+        {
+            "id": 56,
+            "team": "Sassuolo",
+            "logo": "imgs/seriaA/Sassuolo.png"
+        },
+        {
+            "id": 57,
+            "team": "Udinese",
+            "logo": "imgs/seriaA/Udinese.png"
+        },
+        {
+            "id": 58,
+            "team": "Verona",
+            "logo": "imgs/seriaA/Verona.png"
+        },
+        {
+            "id": 59,
+            "team": "Empoli",
+            "logo": "imgs/seriaA/Empoli.png"
+        },
+        {
+            "id": 60,
+            "team": "Salernitana",
+            "logo": "imgs/seriaA/Salernitana.png"
+        }
+
+    ],
+    "bundesliga": [
+        {
+            "id": 61,
+            "team": "Bayer",
+            "logo": "imgs/bundesliga/Bayer.png"
+        },
+        {
+            "id": 62,
+            "team": "Bayern",
+            "logo": "imgs/bundesliga/Bayern.png"
+        },
+        {
+            "id": 63,
+            "team": "Stuttgart",
+            "logo": "imgs/bundesliga/Stuttgart.png"
+        },
+        {
+            "id": 64,
+            "team": "BVB",
+            "logo": "imgs/bundesliga/BVB.png"
+        },
+        {
+            "id": 65,
+            "team": "RB",
+            "logo": "imgs/bundesliga/RB.png"
+        },
+        {
+            "id": 66,
+            "team": "EF",
+            "logo": "imgs/bundesliga/EF.png"
+        },
+        {
+            "id": 67,
+            "team": "Freiburg",
+            "logo": "imgs/bundesliga/Freiburg.png"
+        },
+        {
+            "id": 68,
+            "team": "Hoffenheim",
+            "logo": "imgs/bundesliga/Hoffenheim.png"
+        },
+        {
+            "id": 69,
+            "team": "Werder",
+            "logo": "imgs/bundesliga/Werder.png"
+        },
+        {
+            "id": 70,
+            "team": "Heidenheim",
+            "logo": "imgs/bundesliga/Heidenheim.png"
+        },
+        {
+            "id": 71,
+            "team": "Wolfsburg",
+            "logo": "imgs/bundesliga/Wolfsburg.png"
+        },
+        {
+            "id": 72,
+            "team": "Augsburg",
+            "logo": "imgs/bundesliga/Augsburg.png"
+        },
+        {
+            "id": 73,
+            "team": "BM",
+            "logo": "imgs/bundesliga/BM.png"
+        },
+        {
+            "id": 74,
+            "team": "Bochum",
+            "logo": "imgs/bundesliga/Bochum.png"
+        },
+        {
+            "id": 75,
+            "team": "Union",
+            "logo": "imgs/bundesliga/Union.png"
+        },
+        {
+            "id": 76,
+            "team": "Koln",
+            "logo": "imgs/bundesliga/Koln.png"
+        },
+        {
+            "id": 77,
+            "team": "Mainz",
+            "logo": "imgs/bundesliga/Mainz.png"
+        },
+        {
+            "id": 78,
+            "team": "Darmstadt",
+            "logo": "imgs/bundesliga/Darmstadt.png"
+        }
+    ]
+}
