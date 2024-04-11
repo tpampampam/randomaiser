@@ -1,5 +1,5 @@
 import { Box,  Typography } from "@mui/material";
-import { FC, memo, useCallback } from "react";
+import { FC,  useCallback } from "react";
 import Team from "./Team";
 import { useTeamContext } from "../context/teamsContext";
 import { IUser } from "../pages/User";
