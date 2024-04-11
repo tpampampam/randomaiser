@@ -2,7 +2,7 @@ import { Button, Paper, Typography } from "@mui/material";
 import Team from "./Team";
 import style from './index.module.css'
 import { useTeamContext } from "../context/teamsContext";
-import { FC } from "react";
+import { FC, useCallback } from "react";
 import { IUser } from "../pages/User";
 import { ITeam } from "./League";
 
@@ -12,6 +12,9 @@ const YourTeams: FC<IUser> = ({user}) => {
     const {user1Teams, user2Teams, removeFromMyTeam, finalLineup} = useTeamContext()
 
     const myTeams = (user === 'user1') ? user1Teams : user2Teams
+
+    const removeTeam = useCallback(({id, team , logo, user}:ITeam & IUser) => removeFromMyTeam({id, team , logo, user}),[])
+
     return(
         <>
             <Typography
@@ -37,7 +40,7 @@ const YourTeams: FC<IUser> = ({user}) => {
                 }}
             >
                 {myTeams && myTeams.map((item: ITeam )=> (
-                    <Team key={item.id} {...item} large={true} user={user} myTeamFunction={removeFromMyTeam}/>
+                    <Team key={item.id} {...item} large={true} user={user} myTeamFunction={removeTeam}/>
                 ))}
             </Paper>
             <Button 

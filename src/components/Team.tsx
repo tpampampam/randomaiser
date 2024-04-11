@@ -1,11 +1,11 @@
 import { Paper } from "@mui/material";
 import style from './index.module.css';
-import { FC } from "react";
+import { FC, memo } from "react";
 import { ITeam } from "./League";
 import { IUser } from "../pages/User";
 
 
-const Team:FC<ITeam & IUser> = ({id, team, logo, large, myTeamFunction, user }) => {
+const Team:FC<ITeam & IUser> = memo(({id, team, logo, large, myTeamFunction, user }) => {
     
     return(
         <Paper 
@@ -25,6 +25,6 @@ const Team:FC<ITeam & IUser> = ({id, team, logo, large, myTeamFunction, user }) 
             />
         </Paper>
     )
-}
+})
 
 export default Team;

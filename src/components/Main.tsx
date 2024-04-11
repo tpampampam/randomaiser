@@ -1,12 +1,12 @@
 import { Box } from '@mui/material';
 import teams from '../utils/data.json';
 import League from './League';
-import { FC } from 'react';
+import { FC, useLayoutEffect, useMemo, useState } from 'react';
 import { IUser } from '../pages/User';
 
 const Main: FC<IUser> = ({user}) => {
-    
-      
+   
+
     return(
 
         <Box 
